@@ -1,9 +1,13 @@
-<view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
-    <view class="c-minheight wx-view_F3pWrb6" data-c_e_id="wx_viewaefc72a0">
-        <input class="c-block c-fullwidth wx-input_6MB9hn2" data-c_e_id="wx_input_f3dcdf90" maxlength="5" name="input1" placeholder="9" type="number"/>
-        <text class="c-block wx-text_CEX6YY" data-c_e_id="wx_text_75fa7893">元/次</text>
-    </view>
-    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_f8df9ab730889e92" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
-        保存
-    </button>
+<view class="c-minheight wx-view_H3mSYw" data-c_e_id="wx_view_72d2e9d4">
+    <form bindsubmit="formSubmit" class="c-minheight wx-form_GNwIHy" data-c_e_id="wx_form_690b61b3">
+        <view class="c-minheight wx-view_F3pWrb6" data-c_e_id="wx_viewaefc72a0">
+            <input class="c-block c-fullwidth wx-input_6MB9hn2" data-c_e_id="wx_input_f3dcdf90" maxlength="5" name="input1" placeholder="9" type="number"/>
+            <text class="c-block wx-text_CEX6YY" data-c_e_id="wx_text_75fa7893">元/次</text>
+        </view>
+        <view class="c-minheight wx-view_PPAjFv" data-c_e_id="wx_view_71c947f4">
+            <button catchtap="tap_88c93d9c" class="wx-button_gX4VnM" data-c_act_id="M_bc85cd0fa58528c8" data-c_e_id="wx_button_55fa8e41" form-type="submit" formType="submit" hover-class="button-hover" size="default" type="default">
+                保存
+            </button>
+        </view>
+    </form>
 </view>

@@ -70,7 +70,12 @@ Page({
 
   //以下为自定义点击事件
   
-  tap_61539bf6:function(e){
+  formSubmit:function(e){
+    //触发coolsite360交互事件
+    app.coolsite360.fireEvent(e,this);
+  },
+  
+  tap_88c93d9c:function(e){
     //触发coolsite360交互事件
     app.coolsite360.fireEvent(e,this);
   },

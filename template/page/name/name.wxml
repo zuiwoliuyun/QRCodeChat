@@ -1,8 +1,12 @@
-<view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
-    <view class="c-minheight wx-view_F3pWrb2" data-c_e_id="wx_viewaefc72a0">
-        <input class="c-block c-fullwidth wx-input_6MB9hn" data-c_e_id="wx_input_f3dcdf90" name="input1" placeholder="张家辉" type="text"/>
-    </view>
-    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_5f1029a1d4f4af28" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
-        保存
-    </button>
+<view class="c-minheight wx-view_6bU2FG" data-c_e_id="wx_view_15ea8315">
+    <form bindsubmit="formSubmit" class="c-minheight wx-form_AuI9J2" data-c_e_id="wx_form_d2eb08d9">
+        <view class="c-minheight wx-view_F3pWrb2" data-c_e_id="wx_viewaefc72a0">
+            <input class="c-block c-fullwidth wx-input_6MB9hn" data-c_e_id="wx_input_f3dcdf90" maxlength="50" name="input1" placeholder="张家辉" type="text"/>
+        </view>
+        <view class="c-minheight wx-view_h6TE2F" data-c_e_id="wx_view_72e370a4">
+            <button catchtap="tap_3e9aab41" class="wx-button_nea8nf" data-c_act_id="M_58b0bbcfd86382bf" data-c_e_id="wx_button_92cc3166" form-type="submit" formType="submit" hover-class="button-hover" size="default" type="default">
+                保存
+            </button>
+        </view>
+    </form>
 </view>

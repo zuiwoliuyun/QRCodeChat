@@ -2,7 +2,7 @@
   "navigationBarTextStyle": "black", 
   "navigationBarBackgroundColor": "#ffffff", 
   "navigationBarTitleText": "明细", 
-  "backgroundColor": "#ffffff", 
+  "backgroundColor": "#f4f4f4", 
   "enablePullDownRefresh": false, 
   "backgroundTextStyle": "dark"
 }

@@ -1,10 +1,10 @@
-<view class="c-minheight wx-view_9Ri7JT {{wx_view_8deee0fb.class}}" data-c_e_id="wx_view_8deee0fb">
-    <view catchtap="tap_6c26432f" class="c-minheight wx-view_Ekwnbf" data-c_act_id="M_11dbf0053c66039c" data-c_e_id="wx_view_af6bcb5f">
-        <image class="wx-image_SKRzYE" data-c_e_id="wx_image_160d8d89" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png); "/>
-        <text class="c-block wx-text_fn1yTj" data-c_e_id="wx_text_318372c4">录音中，松手发送</text>
-    </view>
-</view>
 <view class="c-minheight wx-view_mHOfIk" data-c_e_id="wx_view_738b68ab">
+    <view class="c-minheight wx-view_9Ri7JT {{wx_view_8deee0fb.class}}" data-c_e_id="wx_view_8deee0fb">
+        <view catchtap="tap_6c26432f" class="c-minheight wx-view_Ekwnbf" data-c_act_id="M_11dbf0053c66039c" data-c_e_id="wx_view_af6bcb5f">
+            <image class="wx-image_SKRzYE" data-c_e_id="wx_image_160d8d89" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/bc218b7f1911b84938c9b6c6613aae6d_origin.png); "/>
+            <text class="c-block wx-text_fn1yTj" data-c_e_id="wx_text_318372c4">录音中，松手发送</text>
+        </view>
+    </view>
     <view catchtap="tap_57b6b0f3" class="c-minheight wx-view_soKcAk {{wx_view_d850ca03.class}}" data-c_act_id="M_c2a672c30500d219|M_9ded7eddc11d4690|M_cc8f5b39cb885417" data-c_e_id="wx_view_d850ca03">
         <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text_3417c415">总时长</text>
         <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text1a257e78">24小时</text>
@@ -12,7 +12,6 @@
         <text class="c-block wx-text_jLX4Xr" data-c_e_id="wx_text85c91831">22小时03分09秒</text>
     </view>
     <scroll-view class="c-minheight wx-scroll-view_bUMNfG {{wx_scroll_view_9ea2ddf9.class}}" data-c_e_id="wx_scroll_view_9ea2ddf9" lower-threshold="50" scroll-y="True" style="overflow-x:   hidden; overflow-y: auto; " upper-threshold="50">
-        
         <view class="c-minheight wx-view_V4bFNF" data-c_e_id="wx_viewc249e1f2">
             <view class="c-minheight wx-view_he1lAY" data-c_e_id="wx_viewaf0297c1">
                 <text class="c-block wx-text_r7HOqt" data-c_e_id="wx_texte3942676">2018年1月31日 18:20</text>
@@ -98,9 +97,6 @@
     </scroll-view>
     <view class="c-minheight wx-view_liaotian {{wx_view_42cb08a3.class}}" data-c_e_id="wx_view_42cb08a3">
         <view class="c-minheight wx-view_Iuz6ZT" data-c_e_id="wx_view09b16569">
-            <view class="c-minheight wx-view_JAR4Yi {{wx_view_9c8107ac.class}}" data-c_e_id="wx_view_9c8107ac">
-                <text class="c-block wx-text_vkDzur" data-c_e_id="wx_text_7cbb369b">聊天时长到，重购后接着聊</text>
-            </view>
             <view class="c-minheight wx-view_mf8Ovy2" data-c_e_id="wx_view01ed8d4b">
                 <view catchtap="tap_6f3c8964" class="c-minheight wx-view_XAoeKx01 {{wx_viewe55bf221.class}}" data-c_act_id="act_c2230031|act_d420a767|M_084eaa8686e3d6b8|M_fa4e158e983dea02" data-c_e_id="wx_viewe55bf221">
                     <image class="wx-image_2ftFzY2" data-c_e_id="wx_imaged68e6a81" mode="scaleToFill" src="http://qty83k.creatby.com/materials/99591/origin/cf7e5b866da27dd7dde05d04588382a2_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/99591/origin/cf7e5b866da27dd7dde05d04588382a2_origin.png); "/>
@@ -111,7 +107,7 @@
             </view>
             <view catchtap="tap_d7ea1607" class="c-minheight wx-view_mf8Ovy3" data-c_act_id="M_ec631e1c2ba9f895|M_7dd84458cfd2090e|M_eefa3cbf36653e02|M_45df45332b7eb4ae" data-c_e_id="wx_view5ffe9020">
                 <view catchtap="tap_b820128b" class="c-minheight wx-view_XAoeKx011 {{wx_view49d4c5f1.class}}" data-c_e_id="wx_view49d4c5f1">
-                    <input class="c-block c-fullwidth wx-input_qvPXwj {{wx_input_7c7758e2.class}}" data-c_e_id="wx_input_7c7758e2" name="input1" type="text"/>
+                    <input class="c-block c-fullwidth wx-input_qvPXwj {{wx_input_7c7758e2.class}}" data-c_e_id="wx_input_7c7758e2" name="input1" type="text" confirm-type="send" cursor-spacing='8'/>
                 </view>
                 <view catchtap="tap_be3b7025" class="c-minheight wx-view_XAoeKx21 {{wx_view3f39858e.class}}" data-c_act_id="M_796f991519cc56b1|M_e30b17c0b1a6e6fb" data-c_e_id="wx_view3f39858e">
                     <button class="wx-button_xzADzG3" data-c_e_id="wx_button_9598c972" hover-class="button-hover" size="default" type="default">

@@ -1,22 +1,6 @@
 
 var actions = [
   {
-    "element_id": "wx_button_ece2ffda", 
-    "data": {
-      "args": {
-        "duration": "1200", 
-        "a_ids": [], 
-        "e_ids": [], 
-        "st": 1, 
-        "title": "保存成功"
-      }, 
-      "type": 0, 
-      "exec": 103
-    }, 
-    "id": "M_33459fdfdedb9e8a", 
-    "isNew": true
-  }, 
-  {
     "element_id": "wx_view8ab064c9", 
     "data": {
       "args": {
@@ -33,6 +17,22 @@ var actions = [
       "exec": 101
     }, 
     "id": "M_6de845b9f81c9327", 
+    "isNew": true
+  }, 
+  {
+    "element_id": "wx_button_458c0e26", 
+    "data": {
+      "args": {
+        "duration": "1200", 
+        "a_ids": [], 
+        "e_ids": [], 
+        "st": 1, 
+        "title": "保存成功"
+      }, 
+      "type": 0, 
+      "exec": 103
+    }, 
+    "id": "M_380e1a8b68f975b9", 
     "isNew": true
   }
 ];

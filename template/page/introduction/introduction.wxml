@@ -1,8 +1,12 @@
-<view class="c-minheight wx-view_VOLxJl" data-c_e_id="wx_view_0fdae4ff">
-    <view class="c-minheight wx-view_F3pWrb2" data-c_e_id="wx_viewaefc72a0">
-        <textarea class="c-block c-fullwidth wx-textarea_bWhceQ" data-c_e_id="wx_textarea_f1017564" name="textarea1" placeholder="很高兴能得到你的认可，欢迎您咨询或交流！" type="textarea"/>
-    </view>
-    <button catchtap="tap_61539bf6" class="wx-button_GT5ilJ" data-c_act_id="M_ea9737fcc58a7151" data-c_e_id="wx_button_ece2ffda" hover-class="button-hover" size="default" type="default">
-        保存
-    </button>
+<view class="c-minheight wx-view_jalEZo" data-c_e_id="wx_view_440f17b7">
+    <form bindsubmit="formSubmit" class="c-minheight wx-form_ZzyVNO" data-c_e_id="wx_form_5bede967">
+        <view class="c-minheight wx-view_1B4aUC" data-c_e_id="wx_view_29e0942c">
+            <textarea class="c-block c-fullwidth wx-textarea_rCKeAS" data-c_e_id="wx_textarea_362640de" maxlength="2048" name="textarea1" placeholder="很高兴得到你的认可，欢迎咨询或交流。" type="textarea"/>
+        </view>
+        <view class="c-minheight wx-view_eKLhcM" data-c_e_id="wx_view_d9b74275">
+            <button catchtap="tap_56977da4" class="wx-button_v9XZwU" data-c_act_id="M_8ff275c5bd9b307d" data-c_e_id="wx_button_b9da735e" form-type="submit" formType="submit" hover-class="button-hover" size="default" type="default">
+                保存
+            </button>
+        </view>
+    </form>
 </view>

@@ -1,7 +1,7 @@
 
 var actions = [
   {
-    "element_id": "wx_button_ece2ffda", 
+    "element_id": "wx_button_b9da735e", 
     "data": {
       "args": {
         "duration": "1200", 
@@ -13,7 +13,7 @@ var actions = [
       "type": 0, 
       "exec": 103
     }, 
-    "id": "M_ea9737fcc58a7151", 
+    "id": "M_8ff275c5bd9b307d", 
     "isNew": true
   }
 ];
